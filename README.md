@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # digital-locker-system
 Digital Locker
 
@@ -18,3 +19,7 @@ Spring Boot
 PostgreSQL
 JWT Authentication
 JPA/Hibernate 
+=======
+# 98bcc609-74da-49fb-9f0f-70eae4447bad-dcb72947-3cb2-415c-bcca-9a1770712250
+https://sonar.server.examly.io/dashboard?id=iamneo-production_98bcc609-74da-49fb-9f0f-70eae4447bad-dcb72947-3cb2-415c-bcca-9a1770712250&amp;codeScope=overall
+>>>>>>> b9ac660 (Initial commit)
